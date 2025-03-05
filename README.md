@@ -30,4 +30,10 @@ A machine learning model that classifies American Sign Language (ASL) alphabet l
 
 ## 🔗 Project Report & Code  
 - [Final Report](https://github.com/mcheung-cal/ASLRecognition/blob/master/Final%20Report%20207.pdf)  
-- [Code Repository](https://github.com/mcheung-cal/ASLRecognition/blob/master/ASL_Models.ipynb)  
+- [Code Repository](https://github.com/mcheung-cal/ASLRecognition/blob/master/ASL_Models.ipynb)
+
+  ## 👥 Contributors  
+- **Michelle Cheung** 
+- **Kelechi Nnebedum** 
+- **Atmika Sarukkai** 
+
