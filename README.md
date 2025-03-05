@@ -32,7 +32,7 @@ A machine learning model that classifies American Sign Language (ASL) alphabet l
 - [Final Report](https://github.com/mcheung-cal/ASLRecognition/blob/master/Final%20Report%20207.pdf)  
 - [Code Repository](https://github.com/mcheung-cal/ASLRecognition/blob/master/ASL_Models.ipynb)
 
-  ## 👥 Contributors  
+## 👥 Contributors  
 - **Michelle Cheung** 
 - **Kelechi Nnebedum** 
 - **Atmika Sarukkai** 
